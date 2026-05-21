@@ -1,6 +1,9 @@
-AccountBook
-├── Program.cs          # 主程序
+代码结构：
+```tree
+AccountBook/
+├── Program.cs - 主程序
 ├── Models/
-│   └── Record.cs       # 记账记录类
+│   └── Record.cs - 记账记录类
 └── Services/
-    └── AccountService.cs  # 业务逻辑
+    └── AccountService.cs - 业务逻辑
+```
